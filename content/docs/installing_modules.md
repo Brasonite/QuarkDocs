@@ -3,7 +3,7 @@ weight: 2
 title: "Installing modules"
 description: ""
 icon: "article"
-draft: true
+draft: false
 toc: true
 ---
 
