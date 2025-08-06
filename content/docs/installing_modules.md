@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "Installing modules"
-description: ""
+description: "Integrating Quark into a Godot project."
 icon: "article"
 draft: false
 toc: true
